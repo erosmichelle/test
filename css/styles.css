@@ -1,0 +1,116 @@
+body {
+  background-color: white;
+  margin: 0;
+  text-align: center;
+  font-family: 'Julius Sans One', Helvetica, sans-serif;
+}
+
+div {
+  background-color: white;
+}
+
+.top-div {
+  background-color: #f1fcfc;
+}
+
+.profile {
+  width: 50%;
+  margin: 100px auto 50px auto;
+  line-height: 2;
+  background-color: #ffffff;
+}
+
+hr {
+  border-style: dotted none none;
+  border-width: 5px;
+  width: 5%;
+  height: 10px;
+  border-color: #EAF6F6;
+  margin-bottom: 40px;
+}
+
+a {
+  color: #11999E;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-size: 5.625rem;
+  font-weight:100;
+  font-family: 'Seaweed Script', sans-serif;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Public Sans', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  margin: 0 auto auto auto;
+  color: #66BFBF;
+}
+
+h3.bestnose {
+  font-family: 'Public Sans', sans-serif;
+  color: #11999E;
+  text-align: left;
+}
+
+h3.partsea {
+  font-family: 'Public Sans', sans-serif;
+  color: #11999E;
+  text-align: right;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+p.bestnose {
+  text-align: left;
+}
+
+p.partsea {
+  text-align: right;
+}
+
+.cloud1 {
+  position: absolute;
+}
+
+.cloud2 {
+  position: relative;
+  left: 200px;
+  top: 50px;
+}
+
+.subtext {
+  position: relative;
+  bottom: 70px;
+}
+
+.skill-row  {
+  width: 50%;
+  margin: 50px auto 50px auto;
+  line-height: 2;
+}
+
+.skillstext {
+    text-align: left;
+}
+
+.beach-img {
+  width: 25%;
+  float: right;
+  padding-left: 20px;
+}
+
+.treats-img {
+  width: 25%;
+  float:left;
+  padding-right: 20px;
+}
+
+.chione-img {
+  width: 25%;
+}
